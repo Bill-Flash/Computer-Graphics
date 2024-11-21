@@ -1,6 +1,6 @@
 # Computer-Graphics
 This is a CG project with 2d, 3d animation, based on OpenGL1.
-![screen_shot](./ScreenShot)
+![screen_shot](./ScreenShot.png)
 ## Introduction
 This story happens in a garden.
 The men who will be controlled by you is able to disturb others' activities.
